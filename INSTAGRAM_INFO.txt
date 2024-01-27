@@ -1,0 +1,4 @@
+Username: user123
+Full Name: John Doe
+Email: john.doe@example.com
+Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit...
