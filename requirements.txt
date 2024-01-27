@@ -1,5 +1,2 @@
 flask
-request
 cryptography
-socket
-threading
